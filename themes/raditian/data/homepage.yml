@@ -59,7 +59,7 @@ about:
     URL: "https://www.linkedin.com/company/radity/"
   image:
     x: "img/who-am-i/foto1.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    _2x: "img/who-am-i/foto1.png"
 
 # education
 education:
@@ -121,7 +121,7 @@ client_and_work:
         URL: "#"
       image:
         x: "img/works/padova.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        _2x: "img/works/padova.jpg"
       is_even: true
 
     - title: "Val Tidone Piacentino"
@@ -132,7 +132,7 @@ client_and_work:
         URL: "#"
       image:
         x: "img/works/valtidone.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        _2x: "img/works/valtidone.jpg"
       is_even: false
 
     - title: "Torino - FTTH"
@@ -143,7 +143,7 @@ client_and_work:
         URL: "#"
       image:
         x: "img/works/torino.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        _2x: "img/works/torino.jpg"
       is_even: true
 
 # testimonial
