@@ -1,0 +1,201 @@
+# showcase
+showcase:
+  enable: true
+  title: "Ciao,Io sono Sabrina"
+  subtitle: "Program Manager"
+  description: "Io lavoro in <a target='_blank' href='https://radity.com/'>Sittel</a>, un'agenzia di Fibra Ottica con sede a Roma. Sono una Donna intraprendente e piena di energia e creatività pronta sempre a sperimentare nuovi sistemi e nuovi programmi per la gestione delle commesse"
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "https://radity.com/en/contact/"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/company/radity/"
+
+    - icon: "github"
+      URL: "https://github.com/radity"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/radity"
+
+    - icon: "dribbble"
+      URL: "https://dribbble.com/radity"
+
+    - icon: "behance"
+      URL: "https://www.behance.net/radity-digital"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/teamradity/"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/raditycom/"
+
+    - icon: "codepen"
+      URL: "#"
+
+    - icon: "yelp"
+      URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "Chi sono io?"
+  content: '<p class="lead">
+    La mia formazione è quella dell artista, dato che ho conseguito la laurea all Accademia delle Belle Arti di Torino, ma in seguito, innamorata della progettazzione, ho proseguito i miei studi approfendendo il management aziendale e di Project Manager inoltre possiedo una spiccata passione per i viaggi
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/company/radity/"
+  image:
+    x: "img/who-am-i/foto1.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Formazione"
+  items:
+    - university: "Accademia delle Belle Arti Torino"
+      year: "1989-1994"
+      degree: "Laurea in Decorazione"
+
+    - university: "Tecnico di Sistemi CAD"
+      year: "2000-2001"
+      degree: "Rendering di Sistemi 2D e 3D"
+
+# experience
+experience:
+  enable: true
+  title: "Esperienza"
+  description: "20 anni di esperienza lavorando come Program Manager e Project Manager in importanti aziende italiane."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/company/radity/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Sr. Program Manager"
+      company: "Finmeccanica"
+      duration: "Marzo 2004 - Maggio 2017"
+
+    - title: "Program Manager Nord Italia"
+      company: "Atypico"
+      duration: "Gennaio 2018 - Dicembre 2019"
+
+    - title: "Sr. Project Manager"
+      company: "Sittel S.p.a"
+      duration: "Gennaio 2020 - Oggi"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: true
+
+  clients:
+    - logo:
+        x: ""
+        _2x: ""
+      alt: ""
+
+  works:
+    - title: "Padova - FTTH"
+      description: "Ho gestito il cantiere FTTH di OpenFiber di Padova per l'azienda Atypico"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/padova.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Val Tidone Piacentino"
+      description: "Gestito e Organizzato l'allaccio della Fibra Ottica nell'incantevole paesino romagnolo per Sittel S.p.a"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/valtidone.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+    - title: "Torino - FTTH"
+      description: "Per Sitel S.p.a Torno alla mia amata Città natale per eseguire la gestione delle commesse OpenFiber."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/torino.jpg"
+        _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Nome Completo"
+    email: "Indirizzo Email"
+    message: "Scrivi qui il tuo messaggio"
+  phone:
+    title: "Numero di telefono"
+    number: "+39 000 000 0000"
+  email:
+    title: "Email"
+    email: '<a href="mailto:dolcerol71@gmail.com">dolcerol71@gmail.com</a>'
+ 
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Invia Messaggio"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
